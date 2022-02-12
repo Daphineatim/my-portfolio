@@ -1,4 +1,4 @@
-# Hello Project
+# My Portfolio
 > This is my First Project in Microverse
 ## Built with
 - HTML
@@ -17,6 +17,8 @@
 -GitHub: @Daphineatim
 -Twitter: @dhaphyn
 -LinkedIn: Daphine Atim
+-Medium: Hopedaphine
+-Angellist: Hope Daphine
 ### :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
 > Feel free to check the issues page.

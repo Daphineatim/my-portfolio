@@ -1,0 +1,26 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "> This is my First Project in Microverse\r ## Built with\r - HTML\r - CSS\r ## Getting Started\r > To get a local copy up and running follow these simple example steps.\r ### Prerequisites\r - Github Account\r - IDE\r - Git\r ### Setup\r - git init\r - git clone git@github.com:git@github.com:\r ## Authors\r ### :woman: Daphine Atim\r -GitHub: @Daphineatim\r -Twitter: @dhaphyn\r -LinkedIn: Daphine Atim\r -Medium: Hopedaphine\r -Angellist: Hope Daphine\r ### :handshake: Contributing\r Contributions, issues, and feature requests are welcome!\r > Feel free to check the issues page.\r ### Show your support\r Give a :star:️ if you like this project!\r ### :memo: License\r This project is MIT licensed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daphineatim/my-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daphineatim/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/Daphineatim/my-portfolio#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
