@@ -115,6 +115,10 @@ header > p {
   color: white;
 }
 
+.btn:active {
+  background-color: #172B4D;
+}
+
 .btn:hover {
   background-color: #6070FF;
 }
